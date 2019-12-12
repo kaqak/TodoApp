@@ -1,5 +1,6 @@
 body{
-  background-image: url(/resources/img/94735-istock-863607936.webp);
+  background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/resources/img/background.jpeg);
+
   width:100%;
 }
 .container{
