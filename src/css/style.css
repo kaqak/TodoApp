@@ -1,0 +1,7 @@
+body{
+  width:100%;
+  background-image:url(/src/img/background.jpg);
+}
+.container{
+  margin-top: 3%;
+}
